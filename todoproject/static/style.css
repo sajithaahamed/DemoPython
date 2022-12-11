@@ -1,0 +1,15 @@
+.banner{
+background-color: pink;
+width: 100%;
+height: 100px;
+margin-bottom:50px;
+}
+.banner-text{
+font-family:'Pacifico', 'Arial Narrow', Arial, sans-serif;
+padding:19px 0px 10px 0px;
+text-align:center;
+text-decoration:underline 3px pink;
+text-shadow:3px 3px 2px red,
+2px 2px 1px green;
+margin-top:5px;
+}
